@@ -1,7 +1,6 @@
 # Lab 4: JS Core
 
 **Author:** Akbota Bostandyk (IT1-2305)  
-**Repository:** https://github.com/botacorre/js-core-bostandyk
 
 ---
 
