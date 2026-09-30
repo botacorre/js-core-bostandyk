@@ -1,0 +1,24 @@
+{
+  "name": "js-core-bostandyk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botacorre/js-core-bostandyk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/botacorre/js-core-bostandyk/issues"
+  },
+  "homepage": "https://github.com/botacorre/js-core-bostandyk#readme",
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
