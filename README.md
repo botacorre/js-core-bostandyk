@@ -54,4 +54,4 @@ Similarly, **memoize(fn)** utilizes a closure to preserve an internal `cache` Ma
 
 * **MDN Web Docs:** Referenced for JavaScript closures, ES6 classes, private class fields, and array methods.
 * **Vitest Documentation:** Used for test suite syntax (describe, it, expect).
-* **Gemini AI:** Utilized for generating unit test template structures and refining technical explanations in English for documentation.
+* **Gemini AI** 
