@@ -12,6 +12,7 @@ To install dependencies and run the Vitest test suite, use the following command
 ```bash
 npm install
 npm test
+---
 
 ## 2. Implemented Features
 Core Functions
